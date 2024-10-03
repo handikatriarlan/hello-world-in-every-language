@@ -1,3 +1,3 @@
 Sub HelloWorld()
-    MsgBox "Hello, World!"
+    MsgBox "Hello World!"
 End Sub
