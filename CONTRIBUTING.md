@@ -37,10 +37,16 @@ Create a new folder (if necessary) or add your Hello World program to an existin
 
 1. Navigate (or create new folder) to the `contributions/python/` folder.
 2. Create a new file named `hello_world.py` with the following content:
-   `python
-print("Hello, World!")
-`
-   Make sure the file follows the naming convention: `hello_world.<extension>`, and is placed inside the respective language folder.
+   ```python
+   print("Hello, World!")
+   ```
+Make sure the file follows the naming convention: `hello_world.<extension>`, and is placed inside the respective language folder.
+
+If a Hello World program for that language already exists, you can still contribute by adding a new version. In this case, follow the naming convention `hello_world_2.<extension>`, `hello_world_3.<extension>`, and so on.
+
+For example, if `hello_world.py` already exists in Python, you can create `hello_world_2.py` for the second contribution.
+
+> **Note:** While it's possible to add duplicate entries in the same language, it's better to contribute a Hello World program in a new language if possible.
 
 ### 5. Commit Your Changes
 
@@ -76,6 +82,8 @@ Once you've submitted your PR, wait for it to be reviewed and merged. After your
 
 ## 🌟 Contribution Guidelines
 - Each PR should contain only one Hello World program in a unique language.
+- If a Hello World program for a language already exists, feel free to add another version by following the naming convention `hello_world_2.<extension>`, `hello_world_3.<extension>`, etc.
+- **We recommend contributing to a new programming language whenever possible** to help expand the diversity of languages in the repository.
 - Ensure the code is simple and prints "Hello, World!" correctly.
 - Follow the naming convention: `contributions/language/hello_world.<extension>`.
 - Avoid making trivial changes that could be marked as spam.
