@@ -1,6 +1,5 @@
-vb net
-Module HelloWorld
+Module VBModule
     Sub Main()
-        Console WriteLine("Hello, World!")
+        Console.WriteLine("Hello World")
     End Sub
-End Module 
+End Module
