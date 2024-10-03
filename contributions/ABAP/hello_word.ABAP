@@ -1,3 +1,3 @@
-PROGRAM zhello_world.
-START-OF-SELECTION.
-    WRITE 'Hello, World!'.
+REPORT ZHELLO_WORLD 
+
+WRITE: / 'Hello, World!' 
