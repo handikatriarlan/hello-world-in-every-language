@@ -1,9 +1,14 @@
 // This is hello world verilog program.
 
-module hello_world;
+`timescale 1ns / 1ps
+
+
+module hello_world #(
+  parameter string MESSAGE = "Hello, World!"
+);
 
   initial begin
-    $display("Hello, World!\n");
+    $display("%s\n", MESSAGE);
     $finish;
   end
 
