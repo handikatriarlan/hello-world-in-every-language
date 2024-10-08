@@ -8,8 +8,7 @@ architecture behavior of hello_world is
 begin
   process
   begin
-    report "Hello, World!";
-    report "";
-    wait;
+    report "Hello, World!" severity note;
+    wait for 10 ns;
   end process;
 end architecture behavior;
