@@ -1,0 +1,4 @@
+BEGIN
+    OUTTEXT ("Hello, World!");  // Print "Hello, World!" to the console
+    READLN;  // Wait for the user to press Enter
+END
