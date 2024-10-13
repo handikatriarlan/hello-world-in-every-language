@@ -1,8 +1,12 @@
-def print_hello():
-    print("Hello, World!")
+def print_hello_x(x):
+    print("Hello, " + x + "!")
+
+def main():
+    x = "World"
+    print_hello_x(x)
     
 if __name__ == "__main__":
-    print_hello()
+    main()
 
-else: 
-    print("Goodbye, world!")        
+else:
+    print("Goodbye, world!")
