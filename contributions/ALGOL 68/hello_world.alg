@@ -1,1 +1,3 @@
-printf(($gl$, "Hello, World!"))
+main: (
+  printf($"Hello world!"l$)
+)
