@@ -1,13 +1,11 @@
-<script>
-
-  </script>
-  
-  <style>
+<style>
     h1 {
-      color: #ff3e00;
-      font-family: sans-serif;
+        color: #ff3e00;
+        font-family: sans-serif;
+        font-size: 4vw; /* responsive font size */
     }
-  </style>
-  
-  <h1>Hello, World!</h1>
-  
+</style>
+
+<main>
+    <h1>Hello, World!</h1>
+</main>
