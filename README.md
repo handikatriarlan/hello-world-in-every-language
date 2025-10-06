@@ -12,7 +12,7 @@ Welcome to the **hello-world-in-every-language** repository! 🎉
     <a href="https://github.com/handikatriarlan/hello-world-in-every-language/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/handikatriarlan/hello-world-in-every-language?color=2b9348"></a>
 </div>
 
-This project is part of [**Hacktoberfest 2024**](https://hacktoberfest.com) and aims to collect **Hello World** programs written in as many different programming languages as possible. Whether you're a beginner or a seasoned developer, contributing to this repo is super easy — just write a simple Hello World program!
+This project is part of [**Hacktoberfest 2025**](https://hacktoberfest.com) and aims to collect **Hello World** programs written in as many different programming languages as possible. Whether you're a beginner or a seasoned developer, contributing to this repo is super easy — just write a simple Hello World program!
 
 ## 📋 Project Overview
 
@@ -29,9 +29,9 @@ We want to showcase Hello World in every programming language imaginable. Each c
 - `contributions/python/hello_world.py`
 - More languages needed! Feel free to add a new one!
 
-## 🏅 Hacktoberfest 2024 Participation
+## 🏅 Hacktoberfest 2025 Participation
 
-This repository is participating in Hacktoberfest 2024! Feel free to submit your Hello World program and earn your Hacktoberfest rewards.
+This repository is participating in Hacktoberfest 2025! Feel free to submit your Hello World program and earn your Hacktoberfest rewards.
 
 ### Requirements
 
