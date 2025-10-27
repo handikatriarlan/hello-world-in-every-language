@@ -1,0 +1,1 @@
+nix { hello = "Hello, world!"; }
