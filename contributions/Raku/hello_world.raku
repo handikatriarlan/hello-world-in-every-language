@@ -1,0 +1,1 @@
+raku say "Hello, world!";
